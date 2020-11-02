@@ -1,0 +1,13 @@
+Find out the highest possible countable time interval using TIMER0, normal mode, and a
+suitable pre-scalar. Assume XTAL= 16MHz.
+
+What is the selected prescaler?
+1:1024
+(To get the maximum delay we use maximum prescalar)
+
+What is the highest countable time interval?
+
+XTAL = 16MHz → T = 1 / 16 μs
+prescaler = 1:1024 → T(counter_clock) = 1024 × 1/16 μs = 64 μs
+
+Highest countable time interval = 256 x 64 μs = 16.384 ms

@@ -1,0 +1,9 @@
+Try to increase the delay in Exercise 2 to 500ms. 
+why this cannot be done?
+
+XTAL = 16MHz → T = 1/16 μs
+max prescaler = 1:1024 → T(counter_clock) = 1024 × 1/16 μs = 64 μs
+(Here we are taking 1:1024 as the prescaler to get minimum no of increments)
+
+counter increments = 500 / 0.064 = 7812.5 > 256 (maximum possible increments)
+
