@@ -1,2 +1,2 @@
 # Embedded-Systems
-Project - Product Development
+Mini Projects 
