@@ -17,9 +17,6 @@ write procedure must be followed. When the EEPROM is read, the CPU is halted for
 clock cycles before the next instruction is executed. When the EEPROM is written, the 
 CPU is halted for two clock cycles before the next instruction is executed.  
 
-### Digital voltmeter (Ex 1)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex2_circuit.png)
 
-
-### Light bulb (Ex 2)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex3_circuit.png)
+### Encrypt/Decrypt text and display in LCD (Ex 3)
+![](https://github.com/hansthisanke/Embedded-Systems-1/blob/master/EEPROM%20LCD%20Keypad/ex3_circuit.png)
