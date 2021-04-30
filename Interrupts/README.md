@@ -12,9 +12,18 @@ The  most  important  reason  why  the  interrupt  method  is  preferable  is  t
 method  wastes  much  of  the  microcontroller’s  time  by  polling  devices  that  do  not  need 
 service. 
 
-### Digital voltmeter (Ex 1)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex2_circuit.png)
+### Use of polling method (Ex 1)
+![](https://github.com/hansthisanke/Embedded-Systems-1/blob/master/Interrupts/ex1_circuit.png)
 
 
-### Light bulb (Ex 2)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex3_circuit.png)
+### Use of external interrupts (Ex 2)
+![](https://github.com/hansthisanke/Embedded-Systems-1/blob/master/Interrupts/ex2_circuit.png)
+
+
+### Display count of push button releases using LED's(binary)  (Ex 3)
+![](https://github.com/hansthisanke/Embedded-Systems-1/blob/master/Interrupts/ex3_circuit.png)
+
+
+### Two push buttons with external interrupts (Ex 4)
+![](https://github.com/hansthisanke/Embedded-Systems-1/blob/master/Interrupts/ex4_circuit.png)
+
