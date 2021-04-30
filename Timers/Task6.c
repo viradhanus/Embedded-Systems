@@ -34,13 +34,11 @@ unsigned char counter = 0;//global variable counter
 //for 50 ms-Timer 0-1stpin PORT B
 ISR(TIMER0_OVF_vect){
   TCNT0 = 0x83;//reload for next round
-  
+  counter++;//couter is incrementing
   if (counter == 25){
     PORTB = PORTB^(1<<1);//toggling after 50ms
     counter = 0;//counter is setto zero
   }
-  
-  counter++;//couter is incrementing
 }
 
 //for 500ms-Timer 1
