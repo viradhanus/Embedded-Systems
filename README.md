@@ -1,2 +1,2 @@
 # Embedded-Systems
-Mini Projects 
+### Labs based Mini Group Projects
