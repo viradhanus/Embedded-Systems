@@ -9,4 +9,9 @@ light and many other natural quantities produce an output that is an analog volt
 current). Therefore, we need an analog-to-digital converter to translate the analog signals to
 digital numbers, so that the microcontroller can read and process them.
 
+### Digital voltmeter (Circuit 1)
 ![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+
+
+### Light bulb (Circuit 2)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex2_circuit.png)
