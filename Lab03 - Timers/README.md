@@ -13,14 +13,14 @@ the counter register we can derive how much time has elapsed altogether.
 
 
 ### Exercise 1 & 2 & 3
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task1_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab03%20-%20Timers/Task1_circuit.png)
 
 
 ### Exercise 4
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task4_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab03%20-%20Timers/Task4_circuit.png)
 
 ### Exercise 5
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task5_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab03%20-%20Timers/Task5_circuit.png)
 
 ### Exercise 6
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task6_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab03%20-%20Timers/Task6_circuit.png)
