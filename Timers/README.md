@@ -12,23 +12,15 @@ microcontroller is known, we can calculate the 'tick' period. Therefore, using t
 the counter register we can derive how much time has elapsed altogether.
 
 
-### Exercise 1
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
-
-
-### Exercise 2
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex2_circuit.png)
-
-
-### Exercise 3
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+### Exercise 1 & 2 & 3
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task1_circuit.png)
 
 
 ### Exercise 4
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task4_circuit.png)
 
 ### Exercise 5
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task5_circuit.png)
 
 ### Exercise 6
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Timers/Task6_circuit.png)
