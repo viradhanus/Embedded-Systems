@@ -6,7 +6,7 @@ user.
 
 
 ### Knight Rider Circuit
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/Programming%20AVR%20Microcontrollers/circuit_diagram.PNG)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab01%20-%20Programming%20AVR%20Microcontrollers/circuit_diagram.PNG)
 
 
 
