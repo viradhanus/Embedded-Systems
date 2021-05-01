@@ -10,8 +10,8 @@ current). Therefore, we need an analog-to-digital converter to translate the ana
 digital numbers, so that the microcontroller can read and process them.
 
 ### Digital voltmeter (Ex 1)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab05%20-%20ADC/ex1_circuit.png)
 
 
 ### Light bulb (Ex 2)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex2_circuit.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab05%20-%20ADC/ex2_circuit.png)
