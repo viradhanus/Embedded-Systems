@@ -21,7 +21,7 @@ commonly referred to as USART (Universal Synchronous-Asynchronous ReceiverTransm
 
 
 ### Execise 1 & Exercise 2 & Exercise 3 (Transmitting Bits Serially)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/Serial%20Communication/circuit_for_ex_1_2_3.png)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Lab06%20-%20Serial%20Communication/circuit_for_ex_1_2_3.png)
 
 
 
