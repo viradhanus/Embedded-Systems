@@ -20,8 +20,8 @@ are made by many manufacturers for serial data communications. These chips are
 commonly referred to as USART (Universal Synchronous-Asynchronous ReceiverTransmitter).
 
 
-### Execise 1 & Exercise 2 & Exercise 3
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+### Execise 1 & Exercise 2 & Exercise 3 (Transmitting Bits Serially)
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Serial%20Communication/circuit_for_ex_1_2_3.png)
 
 
 
