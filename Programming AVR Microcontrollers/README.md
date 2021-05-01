@@ -5,9 +5,8 @@ In this lab we manually do what is happening inside the Arduino IDE, which is hi
 user.
 
 
-### Digital voltmeter (Ex 1)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex1_circuit.png)
+### Knight Rider Circuit
+![](https://github.com/viradhanus/Embedded-Systems/blob/master/Programming%20AVR%20Microcontrollers/circuit_diagram.PNG)
 
 
-### Light bulb (Ex 2)
-![](https://github.com/viradhanus/Embedded-Systems/blob/master/ADC/ex2_circuit.png)
+
